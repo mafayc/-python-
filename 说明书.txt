@@ -29,7 +29,8 @@ cd C:\Users\Administrator\AppData\Local\Programs\Python\Python39\Scripts然后�
 
 
 //--------------------2.文件关系.----------------------------------------//
-5.handutil和ipiiiibm两个.py文件是源文件,ipiiiibm在我的python环境下无法运行. git.py为我二次创作结果
+5-1加急补充__pycache__文件夹别动
+5-2.handutil和ipiiiibm两个.py文件是源文件,ipiiiibm在我的python环境下无法运行. git.py为我二次创作结果
 6.handutil.py是源副文件,用idle打开运行不报错即可.
    ipiiiibm是源主文件,功能为输出识别结果(需要0-5共6个图片)
   git.py运行结果为,只竖大拇指截图保存,只竖中指结束程序运行,但不关闭窗口.
